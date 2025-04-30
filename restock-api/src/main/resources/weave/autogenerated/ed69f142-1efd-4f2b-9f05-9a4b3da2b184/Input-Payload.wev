@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_ed69f142_1efd_4f2b_9f05_9a4b3da2b184_Input_Payload = Array<{  quantity: Number,   location: String,   sku?: String,   _?: Any}>
+
